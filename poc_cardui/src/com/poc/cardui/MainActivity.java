@@ -7,6 +7,12 @@ import java.util.Random;
 import com.haarman.listviewanimations.itemmanipulation.OnDismissCallback;
 import com.haarman.listviewanimations.itemmanipulation.SwipeDismissAdapter;
 import com.haarman.listviewanimations.swinginadapters.prepared.SwingBottomInAnimationAdapter;
+import com.poc.cardui.card.example.CardRow;
+import com.poc.cardui.card.example.ImageCard;
+import com.poc.cardui.card.example.SimpleCard;
+import com.poc.cardui.card.example.SimpleCardRow;
+import com.poc.cardui.card.model.Card;
+import com.poc.cardui.card.view.ImageCardRow;
 
 import android.app.Activity;
 import android.content.Context;

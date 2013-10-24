@@ -1,4 +1,9 @@
-package com.poc.cardui;
+package com.poc.cardui.card.example;
+
+import com.poc.cardui.R;
+import com.poc.cardui.RowType;
+import com.poc.cardui.R.id;
+import com.poc.cardui.card.model.Card;
 
 import android.view.LayoutInflater;
 import android.view.View;

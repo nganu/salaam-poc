@@ -1,4 +1,7 @@
-package com.poc.cardui;
+package com.poc.cardui.card.example;
+
+import com.poc.cardui.RowType;
+import com.poc.cardui.card.model.Card;
 
 public class ImageCard implements Card {
 	private String title;

@@ -1,4 +1,6 @@
-package com.poc.cardui;
+package com.poc.cardui.card.example;
+
+import com.poc.cardui.card.model.Card;
 
 import android.view.View;
 
